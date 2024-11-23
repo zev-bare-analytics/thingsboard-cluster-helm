@@ -23,4 +23,5 @@
 .vscode/
 custom-values/
 chart
+charts/
 test_values.yaml
